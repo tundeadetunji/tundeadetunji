@@ -9,7 +9,7 @@
 
 <p>You can find me on <a href="https://www.linkedin.com/in/tundeadetunji/" target="blank">LinkedIn</a>✌ - would be happy to know what I can do for you.</p> 
 
-<p>Have a good day!😀</p>
+<p>Have a great day!😀</p>
 
 
 
