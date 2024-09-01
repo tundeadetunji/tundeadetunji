@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Check out Code Repertoire - libraries of over 30, 000 lines of code (see <a href="https://github.com/tundeadetunji/api-dot_net-all_modules" target="_blank">here</a> and <a href="https://github.com/tundeadetunji/api-java-code" target="_blank">here</a>) that came in handy for day to day work. Available in Java, .Net, Android.</p>
+Check out Code Repertoire - libraries of over 30, 000 lines of code (see <a href="https://github.com/tundeadetunji/api-dot_net-all_modules" target="_blank">here</a> and <a href="https://github.com/tundeadetunji/api-java-code" target="_blank">here</a>) that can come in handy for day to day work. Available in Java, .Net, Android.</p>
 
 <p>Love to join your team and contribute to business success and customer success.</p>
 
