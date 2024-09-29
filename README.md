@@ -1,14 +1,13 @@
 ## Hi there 👋
 
 
-Check out Code Repertoire - libraries of over 30, 000 lines of code (see <a href="https://github.com/tundeadetunji/api-dot_net-all_modules" target="_blank">here</a> and <a href="https://github.com/tundeadetunji/api-java-code" target="_blank">here</a>) that can come in handy for day to day work. Available in Java, .Net, Android.</p>
+As a seasoned software developer with a passion for innovation, I'm excited to share my Code Repertoire with you. With over 30,000 lines of code across <a href="https://github.com/tundeadetunji/api-java-code" target="_blank">Java</a>, <a href="https://github.com/tundeadetunji/api-dot_net-all_modules" target="_blank">.Net</a>, and <a href="https://github.com/tundeadetunji/api-android-general_module" target="_blank">Android</a>, my libraries are designed to streamline day-to-day work and drive business success.
 
-<p>Love to join your team and contribute to business success and customer success.</p>
+I'm always looking for opportunities to collaborate on cutting-edge projects and contribute to the success of forward-thinking companies. If you're looking for a dedicated and skilled software developer to join your team, let's connect.
 
-<p>You can find me on <a href="https://www.linkedin.com/in/tundeadetunji/" target="blank">LinkedIn</a>✌ - would be happy to know what I can do for you.</p> 
+You can find me on <a href="https://www.linkedin.com/in/tundeadetunji/" target="blank">LinkedIn</a>✌, where I'd be happy to discuss how my skills and experience can drive value for your organization.
 
-<p>Have a great day!😀</p>
-
+Have a great day!😀
 
 
 
