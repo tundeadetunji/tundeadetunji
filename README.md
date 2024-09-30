@@ -7,8 +7,18 @@ I'm always looking for opportunities to collaborate on cutting-edge projects and
 
 You can find me on <a href="https://www.linkedin.com/in/tundeadetunji/" target="blank">LinkedIn</a>✌, where I'd be happy to discuss how my skills and experience can drive value for your organization.
 
-Have a great day!😀
+<br />
+<h4>Technical Skills</h4>
+<ul>
+  <li>Programming languages: Java, .Net</li>
+  <li>Frameworks: Spring Boot, Android</li>
+  <li>Tools: Git, CircleCI, Docker, Kubernetes</li>
+</ul>
 
+<br />
+<h4>Let's Connect</h4>
+
+If you're interested in learning more about my skills and experience, or if you'd like to discuss potential collaboration opportunities, please don't hesitate to reach out.
 
 
 
