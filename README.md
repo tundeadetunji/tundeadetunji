@@ -5,21 +5,17 @@ As a seasoned software developer with a passion for innovation, I'm excited to s
 
 I'm always looking for opportunities to collaborate on cutting-edge projects and contribute to the success of forward-thinking companies. If you're looking for a dedicated and skilled software developer to join your team, let's connect.
 
-You can find me on <a href="https://www.linkedin.com/in/tundeadetunji/" target="blank">LinkedIn</a>✌, where I'd be happy to discuss how my skills and experience can drive value for your organization.
+You can find me on <a href="https://www.linkedin.com/in/tundeadetunji/" target="blank">LinkedIn</a>✌, I'd be happy to discuss how my skills and experience can drive value for your organization.
 
 <br />
 <h4>Technical Skills</h4>
 <ul>
   <li>Programming languages: Java, .Net</li>
   <li>Frameworks: Spring Boot, Android</li>
-  <li>Tools: Git, CircleCI, Docker, Kubernetes</li>
+  <li>Tools: Git, CircleCI, Docker, Kubernetes, Terraform</li>
 </ul>
 
 <br />
-<h4>Let's Connect</h4>
-
-If you're interested in learning more about my skills and experience, or if you'd like to discuss potential collaboration opportunities, please don't hesitate to reach out.
-
 
 
 
