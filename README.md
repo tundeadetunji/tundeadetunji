@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm a software developer with a love for creating practical solutions. I’ve written over 30,000 lines of code in <a href="https://github.com/tundeadetunji/api-java-code">Java</a>, <a href="https://github.com/tundeadetunji/api-dot_net-all_modules">.NET</a>, and <a href="https://github.com/tundeadetunji/api-android-general_module">Android</a>, focusing on libraries that help streamline everyday tasks and enhance productivity (like Object Relational Mapping in .NET and Dynamic creation of Bar/Pie/Line Chart in Java). 
+I'm a software developer with over a decade of experience and a love for creating practical solutions. In my spare time, I’ve written over 30,000 lines of code in <a href="https://github.com/tundeadetunji/api-java-code">Java</a>, <a href="https://github.com/tundeadetunji/api-dot_net-all_modules">.NET</a>, and <a href="https://github.com/tundeadetunji/api-android-general_module">Android</a>, focusing on libraries that help streamline everyday tasks and enhance productivity (like Object Relational Mapping in .NET and Dynamic creation of Bar/Pie/Line Chart in Java). 
 
-I enjoy collaborating on projects and sharing knowledge, so feel free to check out my work and <a href="https://www.linkedin.com/in/tundeadetunji/">reach out</a>!
+I enjoy collaborating on projects and sharing knowledge, feel free to check out my work and <a href="https://www.linkedin.com/in/tundeadetunji/">reach out</a>!
 
 <br />
 <h4>Technical Skills</h4>
