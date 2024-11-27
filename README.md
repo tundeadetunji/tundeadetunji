@@ -10,8 +10,8 @@ You can find me on <a href="https://www.linkedin.com/in/tundeadetunji/" target="
 <br />
 <h4>Technical Skills</h4>
 <ul>
-  <li>Programming languages: Java, C#, Python</li>
-  <li>Frameworks: .Net, Spring Boot, Android, Django</li>
+  <li>Programming languages: Java, C#</li>
+  <li>Frameworks: .Net, Spring Boot, Android</li>
   <li>Tools: Git, CircleCI, Docker, Kubernetes, Terraform</li>
   <li>Cloud: AWS EC3/EBS, Azure Pipelines/Artifacts/App Service</li>
 </ul>
