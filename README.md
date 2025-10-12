@@ -10,12 +10,13 @@ Links:
 I am available on <a href="https://www.linkedin.com/in/tundeadetunji/">LinkedIn</a>. You can also reach me by <a href="mailto: tundeadetunji2017@gmail.com">email</a>. I'd love to know how I can benefit you and your team. Have a nice day!
 
 <br />
-<h4>Top Skills</h4>
+<h4>Top Skills and technologies</h4>
 <ul>
   <li>Programming languages: <b>Java</b>, VB.NET, C#, Python</li>
   <li>Frameworks: <b>Spring Boot</b>, .NET, Android, React.js</li>
   <li>Containerization: Docker, Kubernetes</li>
   <li>Cloud: Azure Pipelines/DevOps/Artifacts/App Service</li>
+  <li>Cloud: AWS EC2, Fargate</li>
 </ul>
 
 <br />
