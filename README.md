@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a software developer with a love for building libraries that help streamline everyday tasks. 
+I'm a software developer with a love for building libraries that help streamline everyday tasks, and working on what might be deemed as 'complex' projects.
+
+My most recent projects involved 'converting what you speak into code' and 'home automation from your Android device'. 
 
 Feel free to check out my current libraries, featuring Object Relational Mapping in .NET and dynamic creation of Bar/Pie/Line Chart in Java, among others.
 
