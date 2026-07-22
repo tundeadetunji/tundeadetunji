@@ -1,18 +1,21 @@
 ## Hi there 👋
 
-I'm a software developer with a love for building libraries that help streamline everyday tasks, and working on what might be deemed as 'complex' projects.
+I'm a software developer with a love for building libraries that help streamline everyday tasks, and working on multi-platform projects.
 
 My most recent projects involved 'converting what you speak into code' and 'home automation from your Android device'. 
 
-Feel free to check out my current libraries, featuring Object Relational Mapping in .NET and dynamic creation of Bar/Pie/Line Chart in Java, among others.
+Feel free to check out my current libraries, featuring Object Relational Mapping in .NET and dynamic creation of Bar/Pie/Line Chart in Java, among others, on <a href="https://github.com/tundeadetunji/api-java-code">Java</a>, <a href="https://github.com/tundeadetunji/api-dot_net-all_modules">.NET</a>, and <a href="https://github.com/tundeadetunji/api-android-general_module">Android</a>.
 
 Links:
-<a href="https://github.com/tundeadetunji/api-java-code">Java</a>, <a href="https://github.com/tundeadetunji/api-dot_net-all_modules">.NET</a>, and <a href="https://github.com/tundeadetunji/api-android-general_module">Android</a>.
+<br/>
+<a href="https://www.linkedin.com/in/tundeadetunji/">LinkedIn</a>
+<br/>
+<a href="mailto: tundeadetunji2017@gmail.com">Email</a>
+<br/>
 
-I am available on <a href="https://www.linkedin.com/in/tundeadetunji/">LinkedIn</a>. You can also reach me by <a href="mailto: tundeadetunji2017@gmail.com">email</a>. I'd love to know how I can benefit you and your team. Have a nice day!
+I'd love to know how I can benefit you and your team. Have a nice day!
 
 <br />
-<h4>Top Skills and technologies</h4>
 <ul>
   <li>Programming languages: <b>Java</b>, VB.NET, C#, Python</li>
   <li>Frameworks: <b>Spring Boot</b>, .NET, Android, React.js</li>
