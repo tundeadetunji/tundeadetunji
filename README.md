@@ -1,4 +1,4 @@
-I'm a software engineer who enjoys building useful things — particularly software that makes a difficult or repetitive task simpler.
+I enjoy building software that makes difficult or repetitive tasks simpler.
 
 Most of my work is in Java and Spring Boot, but my projects have ranged from enterprise and Android applications to AI systems, developer tools and reusable libraries for Java and .NET.
 
