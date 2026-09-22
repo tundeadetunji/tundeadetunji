@@ -6,7 +6,7 @@ Most of my work is in Java and Spring Boot, but my projects have ranged from ent
 
 Some of the more interesting things I've built include a voice-to-code system supporting English and Yoruba, and AI-powered applications using OpenAI and Hugging Face. For a selection of my work, feel free to see <a href="https://tundeadetunji.github.io/">here</a>.
 
-I'd love to see how I can be of benefit to you and/or your organization.
+I'd love to discuss how I could contribute to your team or organization.
 
 Also, feel free to have a look around. 
 
